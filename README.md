@@ -31,22 +31,9 @@ To run this analysis locally, follow these steps:
     ```bash
     cd Diwali-Sales-Analysis-EDA-
     ```
-3. Create a virtual environment:
+3. Install the required packages. You can do this manually if you know the libraries used, or use the provided command:
     ```bash
-    python -m venv venv
-    ```
-4. Activate the virtual environment:
-    - On Windows:
-        ```bash
-        venv\Scripts\activate
-        ```
-    - On macOS/Linux:
-        ```bash
-        source venv/bin/activate
-        ```
-5. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
+    pip install pandas numpy matplotlib seaborn
     ```
 
 ## Exploratory Data Analysis
