@@ -10,7 +10,6 @@ This repository contains the Exploratory Data Analysis (EDA) for Diwali Sales da
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Diwali is one of the biggest festivals in India, and it significantly impacts sales across various sectors. This project aims to analyze the sales data during the Diwali period to uncover trends and insights.
